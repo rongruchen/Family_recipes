@@ -1,4 +1,4 @@
-#Rongru's clan mysterious recipes
+#Rongru's clan secret recipes
 
 set of recipes as given by my grandma.
 
